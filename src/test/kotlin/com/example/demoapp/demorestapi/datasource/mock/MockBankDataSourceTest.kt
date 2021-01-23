@@ -1,7 +1,6 @@
 package com.example.demoapp.demorestapi.datasource.mock
 
 import org.assertj.core.api.Assertions
-import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 
 internal class MockBankDataSourceTest {
